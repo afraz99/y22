@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1081378531020",
+    "firebase_url": "https://yatterpro.firebaseio.com",
+    "project_id": "yatterpro",
+    "storage_bucket": "yatterpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081378531020:android:e19e913f6d87a00f74c469",
+        "android_client_info": {
+          "package_name": "com.example.yatterpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081378531020-heb1pe11pat7cqhldo3v0c42idu9pob6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yatterpro",
+            "certificate_hash": "aaca3518a7df9c8628e6a0cd8109da0d77750964"
+          }
+        },
+        {
+          "client_id": "1081378531020-knsr938mm26telsbl8e40khecc2k5c1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-AsQurki1926OVcEW2uJIcfAwIPv3pKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081378531020-knsr938mm26telsbl8e40khecc2k5c1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
